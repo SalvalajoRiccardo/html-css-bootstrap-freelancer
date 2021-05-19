@@ -57,11 +57,22 @@
     width: 100%;
 }
 
-
-.about {
+/* about */
+#about {
     background-color: #1abc9c;
+    padding: 50px 60px 50px;
+    color: white;
 }
 
+#about a {
+    color: white;
+    text-decoration: none;
+    border: 1px solid;
+    padding: 5px;
+
+}
+
+/* contact */
 .contact {
     height: 200px;
 }
