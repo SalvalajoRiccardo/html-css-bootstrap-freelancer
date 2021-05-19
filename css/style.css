@@ -11,13 +11,36 @@
     display: flex;
     align-items: center;
     text-transform: uppercase;
+    
 }
 
 /* jumbo */
 #jumbotron {
-    height: 200px;
     background-color: #1abc9c;
+    color: white;
+    padding: 50px 0 30px;
 }
+
+#jumbotron img {
+    width: 20%;
+}
+
+#stacco {
+   width: 40%; 
+   text-align: center; 
+   border-bottom: 2px solid white; 
+   line-height: 0.1em;
+   margin: 10px auto 20px; 
+   padding: 0 50px;
+    
+}
+
+#stacco span {
+    padding:0 10px;
+    background-color:#1abc9c ; 
+}
+
+
 
 .portfolio {
     width: 80%;
