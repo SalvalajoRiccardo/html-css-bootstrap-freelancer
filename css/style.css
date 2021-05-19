@@ -73,21 +73,19 @@
 }
 
 /* contact */
-.contact {
-    height: 200px;
+
+#contact {
+    padding: 50px 0;
 }
 
-.boxheight {
-    height: 80px;
-    background-color: yellow;
-    width: 100px;
-    margin: auto;
-
+.btnsend {
+    background-color: #1abc9c;
+    color: white;
+    margin-top: 10px;
 }
 
-.titolopiccolo {
-    height: 50px;
-}
+
+
 
 .topfoot {
     background-color: #3a546d;
